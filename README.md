@@ -1,2 +1,2 @@
-# hp_describe
-HP Switch Control
+# hpconnect
+Simplified connection towards HP Switch Control
