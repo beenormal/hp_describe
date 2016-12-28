@@ -1,0 +1,2 @@
+#!/bin/sh
+./hp_switch_connect $HP_IP admin $HP_PASS $1 | grep Description
